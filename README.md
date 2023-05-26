@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ![devops](https://img.shields.io/badge/devops-true-blue)
 - 📝 [My_resume](https://github.com/guikcd/my-curriculum-vitae)
@@ -7,6 +7,10 @@
 - 📫 How to reach me: gui+nospam@iroqwa.org
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=guikcd&show_icons=true" alt="guikcd" /> </p>
+
+## Languages and Technologies
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=guikcd&hide=html,css&layout=compact&langs_count=10)
 
 ---
 <p align="center">
